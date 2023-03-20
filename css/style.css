@@ -22,72 +22,6 @@
   cursor: pointer;
 }
 
-
-/* images */
-#gallery h3 {
-  grid-area: gallery-h3;
-}
-#gallery .img1 {
-  grid-area: img1;
-  background-image: url("../img/gallery1.jpeg");
-}
-#gallery .img20 {
-  grid-area: img20;
-  background-image: url("../img/gallery2.jpeg");
-}
-#gallery .img3 {
-  grid-area: img3;
-  background-image: url("../img/gallery3.jpeg");
-}
-#gallery .img6 {
-  grid-area: img6;
-  background-image: url("../img/gallery4.jpeg");
-}
-#gallery .img12 {
-  grid-area: img12;
-  background-image: url("../img/gallery5.jpeg");
-}
-#gallery .img9 {
-  grid-area: img9;
-  background-image: url("../img/gallery6.jpeg");
-}
-#gallery .img8 {
-  grid-area: img8;
-  background-image: url("../img/gallery7.jpeg");
-}
-#gallery .img5 {
-  grid-area: img5;
-  background-image: url("../Images/Gallery/img5.jpg");
-}
-#gallery .img18 {
-  grid-area: img18;
-  background-image: url("../Images/Gallery/img18.jpg");
-}
-#gallery .img11 {
-  grid-area: img11;
-  background-image: url("../Images/Gallery/img11.jpg");
-}
-#gallery .img2 {
-  grid-area: img2;
-  background-image: url("../Images/Gallery/img2.jpg");
-}
-#gallery .img22 {
-  grid-area: img22;
-  background-image: url("../Images/Gallery/img22.jpg");
-}
-#gallery .img23 {
-  grid-area: img23;
-  background-image: url("../Images/Gallery/img23.jpg");
-}
-#gallery .img24 {
-  grid-area: img24;
-  background-image: url("../Images/Gallery/img24.jpg");
-}
-#gallery .img26 {
-  grid-area: img26;
-  background-image: url("../Images/Gallery/img26.jpg");
-}
-
 /* image titles */
 .gallery-img div {
   width: 100%;
@@ -215,63 +149,63 @@ gallery-img div:hover {
 }
 #gallery .img1 {
   grid-area: img1;
-  background-image: url("../Images/Gallery/Img1.jpg");
+  background-image: url("../Images/Gallery/IMG_6405.jpg");
 }
 #gallery .img20 {
   grid-area: img20;
-  background-image: url("../Images/Gallery/img20.jpg");
+  background-image: url("../Images/Gallery/gallery1.png");
 }
 #gallery .img3 {
   grid-area: img3;
-  background-image: url("../Images/Gallery/img3.jpg");
+  background-image: url("../Images/Gallery/IMG_3251.jpg");
 }
 #gallery .img6 {
   grid-area: img6;
-  background-image: url("../Images/Gallery/img6.jpg");
+  background-image: url("../Images/Gallery/gallery3.jpeg");
 }
 #gallery .img12 {
   grid-area: img12;
-  background-image: url("../Images/Gallery/img12.jpg");
+  background-image: url("../Images/Gallery/IMG_3394.jpg");
 }
 #gallery .img9 {
   grid-area: img9;
-  background-image: url("../Images/Gallery/img9.jpg");
+  background-image: url("../Images/Gallery/gallery2.png");
 }
 #gallery .img8 {
   grid-area: img8;
-  background-image: url("../Images/Gallery/img8.jpg");
+  background-image: url("../Images/Gallery/IMG_2452.jpg");
 }
 #gallery .img5 {
   grid-area: img5;
-  background-image: url("../Images/Gallery/img5.jpg");
+  background-image: url("../Images/Gallery/IMG_6342.jpg");
 }
 #gallery .img18 {
   grid-area: img18;
-  background-image: url("../Images/Gallery/img18.jpg");
+  background-image: url("../Images/Gallery/IMG_4848.JPG");
 }
 #gallery .img11 {
   grid-area: img11;
-  background-image: url("../Images/Gallery/img11.jpg");
+  background-image: url("../Images/Gallery/IMG_0642.jpg");
 }
 #gallery .img2 {
   grid-area: img2;
-  background-image: url("../Images/Gallery/img2.jpg");
+  background-image: url("../Images/Gallery/gallery3.jpeg");
 }
 #gallery .img22 {
   grid-area: img22;
-  background-image: url("../Images/Gallery/img22.jpg");
+  background-image: url("../Images/Gallery/gallery5.jpeg");
 }
 #gallery .img23 {
   grid-area: img23;
-  background-image: url("../Images/Gallery/img23.jpg");
+  background-image: url("../Images/Gallery/gallery6.jpeg");
 }
 #gallery .img24 {
   grid-area: img24;
-  background-image: url("../Images/Gallery/img24.jpg");
+  background-image: url("../Images/Gallery/IMG_6585.jpg");
 }
 #gallery .img26 {
   grid-area: img26;
-  background-image: url("../Images/Gallery/img26.jpg");
+  background-image: url("../Images/Gallery/img8.jpg");
 }
 
 /* image titles */
