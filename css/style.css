@@ -29,31 +29,31 @@
 }
 #gallery .img1 {
   grid-area: img1;
-  background-image: url("../Images/Gallery/Img1.jpg");
+  background-image: url("../img/gallery1.jpeg");
 }
 #gallery .img20 {
   grid-area: img20;
-  background-image: url("../Images/Gallery/img20.jpg");
+  background-image: url("../img/gallery2.jpeg");
 }
 #gallery .img3 {
   grid-area: img3;
-  background-image: url("../Images/Gallery/img3.jpg");
+  background-image: url("../img/gallery3.jpeg");
 }
 #gallery .img6 {
   grid-area: img6;
-  background-image: url("../Images/Gallery/img6.jpg");
+  background-image: url("../img/gallery4.jpeg");
 }
 #gallery .img12 {
   grid-area: img12;
-  background-image: url("../Images/Gallery/img12.jpg");
+  background-image: url("../img/gallery5.jpeg");
 }
 #gallery .img9 {
   grid-area: img9;
-  background-image: url("../Images/Gallery/img9.jpg");
+  background-image: url("../img/gallery6.jpeg");
 }
 #gallery .img8 {
   grid-area: img8;
-  background-image: url("../Images/Gallery/img8.jpg");
+  background-image: url("../img/gallery7.jpeg");
 }
 #gallery .img5 {
   grid-area: img5;
@@ -501,7 +501,7 @@ padding-top: 1%;
 
 .section-5 .aboutus{
 text-align: center;
-/* background-image: url(../img/isabella-and-zsa-fischer-nBcOnMoP18g-unsplash.jpg);
+/* background-image:
 background-size: cover;
 background-repeat: no-repeat;
 max-height: 100%;
